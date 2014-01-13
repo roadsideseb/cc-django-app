@@ -1,0 +1,36 @@
+# development tools
+Werkzeug
+django-debug-toolbar
+django-extensions
+bumpversion
+
+# python shell & debugger
+pudb
+ipython
+
+# Testing dependencies
+mock
+WebTest
+django-webtest
+tox
+factory-boy
+pytest
+pytest-cache
+pytest-cov
+pytest-django
+pytest-pep8
+
+# Browser testing deps
+selenium
+splinter
+
+# Code style and coverage
+flake8
+coverage
+pyflakes
+coveralls
+
+# documentation
+Sphinx
+docutils
+sphinx_rtd_theme

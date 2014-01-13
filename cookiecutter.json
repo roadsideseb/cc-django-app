@@ -1,0 +1,10 @@
+{
+    "app_name": "Name of your app",
+    "repo_name":"Name of the repo for your app",
+    "author_name": "Your Name",
+    "email": "Your email",
+    "description": "A short description of the project.",
+    "year": "2014",
+    "domain_name": "example.com",
+    "copyright": "Your name or company"
+}
