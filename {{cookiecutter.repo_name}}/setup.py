@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 setup(
     name='{{ cookiecutter.repo_name }}',
     version="0.0.0",
-    url='https://github.com/{{ cookiecutter.github_user }}/{{ cookiecutter.app_name',
+    url='https://github.com/{{ cookiecutter.github_user }}/{{ cookiecutter.app_name }}',
     author="{{ cookiecutter.author_name }}",
     author_email="{{ cookiecutter.email }}",
     description="{{ cookiecutter.description }}",
