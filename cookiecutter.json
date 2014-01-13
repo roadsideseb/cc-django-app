@@ -1,6 +1,7 @@
 {
-    "app_name": "django-fancy-app",
-    "repo_name":"fancy_app",
+    "repo_name": "django-fancy-app",
+    "app_name": "fancy_app",
+    "github_user": "elbaschid",
     "author_name": "Your Name",
     "email": "Your email",
     "description": "A short description of the project.",

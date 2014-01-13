@@ -12,6 +12,6 @@ install:
   - pip install . --use-wheel
   - pip install -r requirements.txt --use-wheel
 script:
-  - py.test --cov {{ cookiecutter.repo_name }} --cov-report html --pep8
+  - py.test --cov {{cookiecutter.app_name}} --cov-report html --pep8
 after_success:
   - coveralls

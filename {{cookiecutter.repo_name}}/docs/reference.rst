@@ -2,5 +2,5 @@
 API Reference
 =============
 
-.. automodule: {{ cookiecutter.repo_name }}
+.. automodule: {{ cookiecutter.app_name }}
    :members:
